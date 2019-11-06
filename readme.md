@@ -1,3 +1,3 @@
 # WordPress Meetup Git
 
-## Other Header
+This will eventually be a root of a WP site
